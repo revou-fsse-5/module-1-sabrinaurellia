@@ -1,1 +1,23 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_rEaNyCz)
+# Justin Bieber Vespa
+
+## Introduction
+This project is a responsive website dedicated to the collaboration between Justin Bieber and Vespa. The website showcases the unique scooter designed by Bieber and provides information about the collaboration.
+
+## Features
+- Semantic HTML structure
+- Responsive design
+- Form set with various input types
+- Navigation menu
+
+## Structure
+The website consists of the following sections:
+- **Home:** Introduction to the collaboration.
+- **About:** Details about Justin Bieber's collaboration with Vespa.
+- **Gallery:** Images of the custom Vespa.
+- **Contact:** A form to get in touch regarding the collaboration.
+
+## Screenshot
+
+
+## How to Run
+To run this website, simply open the `index.html` file in your web browser.
