@@ -16,8 +16,5 @@ The website consists of the following sections:
 - **Gallery:** Images of the custom Vespa.
 - **Contact:** A form to get in touch regarding the collaboration.
 
-## Screenshot
-
-
 ## How to Run
-To run this website, simply open the `index.html` file in your web browser.
+To run this website, simply open the `index.html`.
